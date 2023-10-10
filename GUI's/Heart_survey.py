@@ -1,3 +1,7 @@
+#for your information, I have a way better version of this GUI made in java
+#Check it out on my java repo
+#link: https://github.com/Falabdullateef/Java/GUI's/Heart_dis
+
 from cProfile import label
 from cgitb import text
 from tkinter import *
