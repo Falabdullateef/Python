@@ -1,5 +1,6 @@
 # unfinished project
-# I dont plan on finishing it because I have a better version of it. Called Heart_survey.py
+# I dont plan on finishing it because I have a better version of it.
+# Here is the link: https://github.com/Falabdullateef/Java/tree/main/Biology/Heart%20disease%20survey
 
 from cProfile import label
 from cgitb import text

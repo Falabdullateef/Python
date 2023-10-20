@@ -1,6 +1,6 @@
 #for your information, I have a way better version of this GUI made in java
 #Check it out on my java repo
-#link: https://github.com/Falabdullateef/Java/GUI's/Heart_dis
+#link: https://github.com/Falabdullateef/Java/tree/main/Biology/Heart%20disease%20survey
 
 from cProfile import label
 from cgitb import text
