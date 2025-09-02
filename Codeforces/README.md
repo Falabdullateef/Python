@@ -3,7 +3,7 @@
 This repo contains my Python solutions to Codeforces problems.  
 I use it mainly to track my progress, learn from mistakes, and improve my problem-solving speed.
 
-My solutions aren’t perfect — so I’m open to any comments or suggestions that could help me improve.
+My solutions aren’t perfect. So, I’m open to any comments or suggestions that could help me improve.
 
 ---
 
