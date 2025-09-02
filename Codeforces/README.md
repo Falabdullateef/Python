@@ -7,7 +7,7 @@ My solutions aren’t perfect. So, I’m open to any comments or suggestions tha
 
 ---
 
-## 🚀 How I Work
+## How I Work
 
 - During contests, I solve each problem (A, B, C…) in separate scripts.
 - For practice, I add standalone problems by their code (e.g., `1234A.py`).
@@ -15,7 +15,7 @@ My solutions aren’t perfect. So, I’m open to any comments or suggestions tha
 
 ---
 
-## 💡 Tips & Notes
+## Tips + Notes
 
 - **Input/Output**: I often rely on `sys.stdin.readline` for speed.
 - **Testing**: I keep sample inputs in `input.txt` and run with:
