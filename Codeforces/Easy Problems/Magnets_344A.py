@@ -1,6 +1,5 @@
 n = int(input()) # number of magnets to test
 
-possible = True
 recent = 0
 groups = 1
 
