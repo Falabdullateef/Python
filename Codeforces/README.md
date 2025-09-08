@@ -1,7 +1,7 @@
 # Codeforces in Python 🐍
 
 This repo contains my Python solutions to Codeforces problems.  
-I use it mainly to track my progress, learn from mistakes, and improve my problem-solving speed.
+I use it mainly to track my progress, learn from mistakes, and improve my problem solving speed.
 
 My solutions aren’t perfect. If you have any (literally any) suggestions, your obligated to give comments or suggestions that could help me improve.
 
@@ -12,7 +12,7 @@ My solutions aren’t perfect. If you have any (literally any) suggestions, your
 - During contests, I solve each problem (A, B, C…) in separate scripts.
 - For practice, I add standalone problems by their code (e.g., `problemname_1234A.py`).
 - I reuse a small template and helper functions to save time during contests.
-- The difficulty of each problem that I've solved are grouped in their respective directory
+- The difficulty of each problem that I've solved are grouped in their respective directory.
 
 ---
 
